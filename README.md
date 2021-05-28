@@ -25,5 +25,6 @@ Provide a tool that allows users to trade safely by analyzing market trends and 
 5. Implement Fraud Protection tool (Pump-and-Dump maneuvers on the rise)
 6. Add price manipulation Alert
 
-
+Implemented Pipeline:
+![image](https://user-images.githubusercontent.com/73875467/119923934-4e9c6400-bf90-11eb-860e-3d7357051c25.png)
 
